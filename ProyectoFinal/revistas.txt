@@ -1,0 +1,2 @@
+4, titulo, autorNombre, autorApellido, 1999, 236, idioma, nombreRevista, 2, 17
+6, Microbiota, Antonio, López, 2008, 15, español, Hee hee, 4, 2

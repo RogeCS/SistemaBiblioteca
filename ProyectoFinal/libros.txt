@@ -1,0 +1,2 @@
+2, titulo, autorNombre, autorApellido, 1999, 236, idioma, lugarDePublicacion, editorial, genero, true
+7, Lucky, Rosha, Jacobs3rd, 1993, 502, inglés, EEUU, Edhasa, aventura, true
